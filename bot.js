@@ -1,7 +1,7 @@
 const TeleBot = require('telebot')
 const fetch = require('node-fetch')
-global.tokebot = '1675120128:AAHCrgafwCMiJuJXCRkzJxJorzGc1zcWyU0'
-global.ownerid = '1245178040'
+global.tokebot = '5050150479:AAGteRx3pr3AnQZbYCkGzzz9pLNSBpr4wXo'
+global.ownerid = '1892879990'
 global.zeksapi = 'apivinz'
 global.vhtear = 'Anakanjing123'
 global.tobzkey = 'BotWeA'
